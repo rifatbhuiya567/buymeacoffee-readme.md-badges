@@ -4,8 +4,8 @@
 <table style="width: 100%;">
   <thead>
     <tr>
-      <th>Black Badge</th>
-      <th>
+      <th style="width: 30%;">Black Badge *</th>
+      <th style="width: 70%;">
         <img src="https://iili.io/JoQcIJS.md.png" alt="buymeacoffee-black-badge" style="width: 104px;">
       </th>
     </tr>
