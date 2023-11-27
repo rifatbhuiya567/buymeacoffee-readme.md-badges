@@ -1,4 +1,4 @@
-## Buy me a coffee github readme.md animated, and static badges
+<img src="images/readme-banner.jpg" alt="buymeacoffe readme.md badges, bmc badges, animated badges" style="width: 100%;" />
 <!-- Buymeacoffee Readme.md Title -->
 
 ### Animated badges
