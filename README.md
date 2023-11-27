@@ -1,7 +1,7 @@
 ## Buy me a coffee github readme.md badges
 
 ### Preview 
-<table>
+<table width="100%">
   <thead>
     <tr>
       <th>Black Badge</th>
