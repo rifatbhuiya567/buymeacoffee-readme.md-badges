@@ -1,6 +1,16 @@
 ## Buy me a coffee github readme.md badges
 
-| ### Preview | ### Black Badge | <img src="https://iili.io/JoQcIJS.md.png" alt="buymeacoffee-black-badge" style="width: 104px;">
+### Preview 
+<table>
+  <thead>
+    <tr>
+      <th>Black Badge</th>
+      <th>
+        <img src="https://iili.io/JoQcIJS.md.png" alt="buymeacoffee-black-badge" style="width: 104px;">
+      </th>
+    </tr>
+  </thead>
+</table>
 
 #### Usage
 ```php
