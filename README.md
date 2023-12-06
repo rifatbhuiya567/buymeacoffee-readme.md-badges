@@ -10,8 +10,8 @@
         BMC - Support Me Animated Badge
       </th>
       <th>
-        <a href="https://www.buymeacoffee.com/rifatbhuiya" target="_blank" title="buymeacoffee" style="background-color: #0d1117;">
-          <img src="https://media.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif"  alt="buymeacoffee-black-badge" style="width: 160px;">
+        <a href="https://www.buymeacoffee.com/rifatbhuiya" target="_blank" title="buymeacoffee">
+          <img src="https://iili.io/JIYMmUN.gif"  alt="buymeacoffee-black-badge" style="width: 160px;">
         </a>
       </th>
     </tr>
@@ -20,8 +20,8 @@
 
 ##### Usage
 ```php
-<a href="https://www.buymeacoffee.com/username" target="_blank" title="buymeacoffee" style="background-color: #0d1117;">
-  <img src="https://media.giphy.com/media/o7RZbs4KAA6tvM4H6j/giphy.gif"  alt="buymeacoffee-animated-badge" style="width: 160px;">
+<a href="https://www.buymeacoffee.com/username" target="_blank" title="buymeacoffee">
+  <img src="https://iili.io/JIYMmUN.gif"  alt="buymeacoffee-animated-badge" style="width: 160px;">
 </a>
 // replace username to your buymeacoffee account username!!
 // adjust badge width using badge width value!!
@@ -36,8 +36,8 @@
         BMC - I'm On Animated Badge
       </th>
       <th>
-        <a href="https://www.buymeacoffee.com/rifatbhuiya" target="_blank" title="buymeacoffee" style="background-color: #0d1117;">
-          <img src="https://media.giphy.com/media/7ssLleBvWvESbx0BuG/giphy.gif"  alt="buymeacoffee-black-badge" style="width: 120px;">
+        <a href="https://www.buymeacoffee.com/rifatbhuiya" target="_blank" title="buymeacoffee">
+          <img src="https://iili.io/JIYVxe9.gif"  alt="buymeacoffee-black-badge" style="width: 120px;">
         </a>
       </th>
     </tr>
@@ -46,8 +46,8 @@
 
 ##### Usage
 ```php
-<a href="https://www.buymeacoffee.com/username" target="_blank" title="buymeacoffee" style="background-color: #0d1117;">
-  <img src="https://media.giphy.com/media/7ssLleBvWvESbx0BuG/giphy.gif"  alt="buymeacoffee-animated-badge" style="width: 120px;">
+<a href="https://www.buymeacoffee.com/username" target="_blank" title="buymeacoffee">
+  <img src="https://iili.io/JIYVxe9.gif"  alt="buymeacoffee-animated-badge" style="width: 120px;">
 </a>
 // replace username to your buymeacoffee account username!!
 // adjust badge width using badge width value!!
@@ -62,8 +62,8 @@
         BMC - I'm On Animated Badge
       </th>
       <th>
-        <a href="https://www.buymeacoffee.com/rifatbhuiya" target="_blank" title="buymeacoffee" style="background-color: #0d1117;">
-          <img src="https://media.giphy.com/media/kmIZ4lx2ZHpr5jY0W4/giphy.gif"  alt="buymeacoffee-black-badge" style="width: 160px;">
+        <a href="https://www.buymeacoffee.com/rifatbhuiya" target="_blank" title="buymeacoffee">
+          <img src="https://iili.io/JIYVVLJ.gif"  alt="buymeacoffee-black-badge" style="width: 160px;">
         </a>
       </th>
     </tr>
@@ -72,8 +72,8 @@
 
 ##### Usage
 ```php
-<a href="https://www.buymeacoffee.com/username" target="_blank" title="buymeacoffee" style="background-color: #0d1117;">
-  <img src="https://media.giphy.com/media/kmIZ4lx2ZHpr5jY0W4/giphy.gif"  alt="buymeacoffee-animated-badge" style="width: 160px;">
+<a href="https://www.buymeacoffee.com/username" target="_blank" title="buymeacoffee">
+  <img src="https://iili.io/JIYVVLJ.gif"  alt="buymeacoffee-animated-badge" style="width: 160px;">
 </a>
 // replace username to your buymeacoffee account username!!
 // adjust badge width using badge width value!!
@@ -88,8 +88,8 @@
         BMC - I'm On Animated Badge
       </th>
       <th>
-        <a href="https://www.buymeacoffee.com/rifatbhuiya" target="_blank" title="buymeacoffee" style="background-color: #0d1117;">
-          <img src="https://media.giphy.com/media/RETzc1mj7HpZPuNf3e/giphy.gif"  alt="buymeacoffee-black-badge" style="width: 160px;">
+        <a href="https://www.buymeacoffee.com/rifatbhuiya" target="_blank" title="buymeacoffee">
+          <img src="https://iili.io/JIYVO7I.gif"  alt="buymeacoffee-black-badge" style="width: 160px;">
         </a>
       </th>
     </tr>
@@ -98,8 +98,8 @@
 
 ##### Usage
 ```php
-<a href="https://www.buymeacoffee.com/username" target="_blank" title="buymeacoffee" style="background-color: #0d1117;">
-  <img src="https://media.giphy.com/media/RETzc1mj7HpZPuNf3e/giphy.gif"  alt="buymeacoffee-animated-badge" style="width: 160px;">
+<a href="https://www.buymeacoffee.com/username" target="_blank" title="buymeacoffee">
+  <img src="https://iili.io/JIYVO7I.gif"  alt="buymeacoffee-animated-badge" style="width: 160px;">
 </a>
 // replace username to your buymeacoffee account username!!
 // adjust badge width using badge width value!!
