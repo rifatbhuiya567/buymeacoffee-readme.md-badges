@@ -1,4 +1,4 @@
-<img src="images/readme-banner.jpg" alt="buymeacoffe readme.md badges, bmc badges, animated badges" style="width: 100%;" />
+<img src="images/readme-banner2.jpg" alt="buymeacoffe readme.md badges, bmc badges, animated badges" style="width: 100%;" />
 <!-- Buymeacoffee Readme.md Title -->
 
 ### Animated badges
